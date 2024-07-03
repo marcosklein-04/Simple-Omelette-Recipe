@@ -1,0 +1,78 @@
+body{
+    background-color: antiquewhite;
+    border-radius: 30%;
+}
+.blanco{
+    background-color: white;
+    border-radius: 20px;
+    margin: 70px;
+}
+img{
+    border-radius: 20px;
+    position: relative;
+    top: 20px; /* Mueve la imagen 20px hacia abajo */
+    left: 60px; /* Mueve la imagen 10px hacia la derecha */
+}
+h1, h2{
+    margin-left: 60px;
+}
+#titulo{
+    font-size: 50px;
+    
+}
+p{
+    margin-left: 60px;
+}
+.rojo{
+    color: red;
+}
+#preparacion{
+    margin-left: 50px;
+}
+li{
+    color: black;
+    padding: 13px;
+}
+.separacion{
+    border: 0; 
+    height: 1px; 
+    background: #ccc; 
+    margin: 10px 50px; 
+}
+.sinpuntos{
+    list-style-type: none;
+}
+.altura{
+    margin-left: 70px;
+    margin-bottom: -25px;
+}
+#kcal{
+    position: absolute;
+    margin-top: -155px;
+    right: 30%;
+    color: red;
+}
+#cerogramos{
+    position: absolute;
+    margin-top: -115px;
+    right: 320px;
+    color: red;
+}
+#veinteg{
+    position: absolute;
+    margin-top: -75px;
+    right: 320px;
+    color: red;
+}
+#veintidosg{
+    position: absolute;
+    margin-top: -42px;
+    right: 320px;
+    color: red;
+}
+.separacionn{
+    border: 0; 
+    height: 1px; 
+    background: #ccc; 
+    margin: 10px 3px; 
+}
